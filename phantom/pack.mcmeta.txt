@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "id": "phantom",
+    "description": "a phantom pack",
+    "pack_format": 15,
+    "version": "1.0.0.0"
+  }
+}

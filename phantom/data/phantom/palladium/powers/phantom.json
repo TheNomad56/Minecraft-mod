@@ -1,0 +1,21 @@
+{
+    "name": "Ghost Hybrid",
+    "background": "minecraft:textures/block/red_wool.png",
+    "icon": "minecraft:command_block",
+    "abilities":
+    {
+        "plasma blast": {
+            "type": "palladium:energy_blast",
+            "icon": "minecraft:blaze_rod",
+            "title": "plasma blast",
+            "bar_color": "light_gray",
+            "hidden": false,
+            "hidden_in_bar": false,
+            "description": "blast from hand",
+            "origin": "eyes",
+            "color": "#FF0000",
+            "damage": 8,
+            "max_distance": 10
+        }
+    }
+}
